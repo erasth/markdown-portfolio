@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Mercury
+2. Venus
+3. The Earth
+   1. The Moon
